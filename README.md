@@ -12,11 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Banner](https://i.imgur.com/0kq0J7Q.png)
-
-# Hi there, I'm Seth 👋  
+# Hi there, Gyan here 👋  
 
 ### **💻 Full-Stack Web Developer | Graphic Designer | Tech Enthusiast**
 
@@ -24,13 +20,13 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 I’m passionate about **building digital solutions that solve real-world problems**.  
-With experience in **MERN stack development**, **UI/UX design**, and **computer hardware repairs**,  
+With experience in **fullstack development**, **graphic design**, and **computer hardware repairs**,  
 I enjoy transforming ideas into sleek and functional applications.
 
 ---
 
 ### **What I’m currently working on**
-- 🌱 Expanding my skills in **cloud computing (AWS)** and **electronics**.  
+- 🌱 Expanding my skills in **cloud computing (AWS)**.
 - 🛠️ Building side projects that merge **creativity, code, and impact**.
 
 ---
@@ -57,8 +53,8 @@ I enjoy transforming ideas into sleek and functional applications.
 ---
 
 ### **Let’s Connect**
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gyan.seth@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seth-gyan)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:marquingyase@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/marquingyase)
 
 ---
 
